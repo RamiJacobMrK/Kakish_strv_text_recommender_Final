@@ -2,7 +2,7 @@
 
 ## Overview
 
-I developed this project as a prototype text recommendation system built for a recruitment task for STRV. It demonstrates how TF-IDF, SVD, and Annoy are utilized to tackle content-based filtering. Given an input text, the system will return a list of the most relevant entries from the dataset "sample_posts". Sample posts could be integrated into larger datasets, but for simplicity and time constraints, I kept it small for now.
+I developed this project as a prototype text recommendation system for a client. It demonstrates how TF-IDF, SVD, and Annoy are utilized to tackle content-based filtering. Given an input text, the system will return a list of the most relevant entries from the dataset "sample_posts". Sample posts could be integrated into larger datasets, but for simplicity and time constraints, I kept it small for now.
 
 ## Technologies Used
 
